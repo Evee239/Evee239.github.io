@@ -3,7 +3,12 @@
     <head>
         <meta charset="utf-8">
         <title>Challenge: The overflowing ocean</title>
-        <style>
+        <link rel="stylesheet" type="text/css" href="https://github.com/Evee239.github.io/style.css">
+       
+    </head>
+    <body>
+
+         <style>
     div.a {
       line-height:1.6;
     }
@@ -14,9 +19,11 @@
           
             
         </style>
-    </head>
-    <body>
-      
+     
+  <h1><u>All About Ireland</u></h1>
+  
+  <h2><strong>How the Country came to be</strong></h2>
+  
   <p>
   <ul>
     <div class="b">
@@ -29,6 +36,31 @@
     </div>
   </ul>
   </p>
-        
+
+<h2>Ireland today</h2>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLmT2Phvjnk_OoZSTRT2cz2uULVPa4sFXfVA&s" alt="Ireland" style="float: left; width:200px; height:auto;">
+<p>
+  <div class="a"> Ireland is known for it's lush green fields and it's nickname is the <em>Emerald Isle.</em> Irish culture is filled with rich traditions.<br>
+  It was where halloween originated from! There is also a lively popularity for pubs. The national symbols of Ireland is the <em>Harp</em><br>
+  and <em>shamrock.</em> Many confuse the shamrock for a four leaf clover but it is actually a three leaf clover. English is widly spoken <br>
+  but irish (Gaeilge) is a significant part of irish culture. Another big part of irish culture is St. Patricks day! It is a <br>
+    holiday that honours the death of Saint Patrick. It turned into a global celebration filled with parades, music, and more. </div>
+</p>
+
+<h2> Top 8 places to visit!</h2>
+<p> Ireland is a beautiful country with so many beatiful places to see.<br>
+Here are the top 8 places to go and see while you're there.<br>
+<ol>
+  <li>Kilmainham Gaol Museum</li>
+  <li>Guiness Storehouse</li>
+  <li>Cliffs of Moher</li>
+  <li>The little Museum of Dublin</li>
+  <li>Jameson Distillary Bow St.</li>
+  <li>The book of Kells Expirence</li>
+  <li>Killarney National Park</li>
+  <li>Blarney Castle and Gardens</li>
+</ol>
+</p>
+
     </body>
 </html>

@@ -7,7 +7,7 @@
        
     </head>
 
-     <style>
+      <style>
     div.a {
       line-height:1.6;
     }
@@ -15,9 +15,21 @@
     div.b {
       line-height:80%;
     }
-          
-            
-        </style>
+    
+    h1 {
+      font-family:monospace;
+    }
+    
+    h2{
+      font-family: "lucida handwriting", cursive
+    }
+    
+    table, th, td {
+      border: 1px solid black;
+    }
+    
+  </style>
+  
     <body>
      
   <h1><u>All About Ireland</u></h1>
